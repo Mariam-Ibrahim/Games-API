@@ -1,0 +1,47 @@
+/* .pageone{
+    background-image:url(../images/wraper.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: ;
+} */
+@font-face {
+    font-family: myfont;
+    src: url(../Recursive/Recursive-VariableFont_CASL\,CRSV\,MONO\,slnt\,wght.ttf);
+}
+body{
+    background-color:#111924 ;
+}
+/* .mycol .card-title{
+    height: 20%;
+
+} */
+
+
+.pageone{
+    background-color:#111924;
+    font-family: myfont;
+}
+.mynavcol{
+    background-color: #3a497b;
+}
+.smallbg{
+    height: 30%;
+    background-image:url(../images/wraper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover ;
+    
+}
+.mysmalllogo{
+    width: 4%;
+}
+.smallfont{
+    font-size: .8rem;
+}
+.overlayer{
+    background-color:#111924;
+    display: none;
+}
+.card{
+    height: 400px;
+}
